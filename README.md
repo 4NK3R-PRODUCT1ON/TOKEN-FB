@@ -10,4 +10,4 @@ $ cd TOKEN-FB
 
 $ ls
 
-$ sh 
+$ sh get.sh
